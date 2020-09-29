@@ -12,6 +12,9 @@ TensorFlow Embeddings:
 3. 128 dimensional embedding vectors: https://tfhub.dev/google/tf2-preview/nnlm-en-dim128/1
 
 
+<hr>
+
+
 Some Reference Material - 
 
 <ol>
