@@ -53,3 +53,17 @@ Some Reference Material -
   http://jalammar.github.io/how-gpt3-works-visualizations-animations/
   </li>
 </ol>
+<hr>
+
+Transformer Beyond NLP -
+
+<ul>
+ <li>Jukebox - A neural network that generates music!-
+   
+   https://openai.com/blog/jukebox/</li>
+   
+   <li> GPT-3 Can also help with auto-programming!-
+  
+  https://beta.openai.com/?app=productivity&example=4_2_0</li>
+ 
+ </ul>
